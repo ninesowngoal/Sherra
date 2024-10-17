@@ -3,7 +3,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/ninesowngoal/sherra?include_prereleases)](https://github.com/ninesowngoal/Sherra/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/ninesowngoal/sherra?date_format=MMMM%20YYYY)](https://github.com/ninesowngoal/Sherra/commits/master/)
-[![License](https://img.shields.io/github/license/ninesowngoal/sherra)](https://github.com/ninesowngoal/Sherra/master/LICENSE)
+[![License](https://img.shields.io/github/license/ninesowngoal/sherra)](https://github.com/ninesowngoal/Sherra/blob/master/LICENSE)
 [![Repo Size](https://img.shields.io/github/repo-size/ninesowngoal/sherra)](https://github.com/ninesowngoal/Sherra)
 
 </div>
