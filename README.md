@@ -18,7 +18,7 @@ Sherra is a Discord bot designed for easy file management within Discord servers
 
 ## Installation
 
-1. Download the packaged release from the [Releases](https://github.com/yourusername/Sherra/releases) tab.
+1. Download the packaged release from the [Releases](https://github.com/ninesowngoal/Sherra/releases) tab.
 2. Locate the `_internal` folder within the extracted files.
 3. Open the `config.json` file and input your own bot token.
 4. Run the executable to start using Sherra.
